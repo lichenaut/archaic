@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="452" key="DIALOG_X_ORIGIN"/>
+		<item value="248" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="built there." key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="built there, however, you can sell the building."/>
+			<item value="Cuy"/>
+			<item value="reapRe"/>
+			<item value="buy.equals(B14"/>
+			<item value="current reap"/>
+			<item value="money ="/>
+			<item value="Cash:"/>
+			<item value="VCl"/>
+			<item value="tD"/>
+			<item value="VD"/>
+			<item value="A"/>
+			<item value="tC"/>
+			<item value="tB"/>
+			<item value="VB"/>
+			<item value="buy"/>
+		</list>
+		<list key="replacehistory">
+			<item value="built there."/>
+			<item value="buy"/>
+			<item value=""/>
+			<item value="Val"/>
+			<item value="ta"/>
+			<item value="Va"/>
+			<item value="D"/>
+			<item value="C"/>
+			<item value="B"/>
+			<item value="sell"/>
+			<item value="buil"/>
+			<item value="Board"/>
+			<item value="bui"/>
+			<item value="Buil"/>
+			<item value="if (A1ing.equals(house)) {"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="284" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="390" key="DIALOG_HEIGHT"/>
+		<item value="997" key="DIALOG_X_ORIGIN"/>
+		<item value="198" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
